@@ -1,0 +1,5 @@
+com\upiiz\ventas\controllers\CategoriasController.class
+com\upiiz\ventas\repository\CategoriasRepository.class
+com\upiiz\ventas\services\CategoriasService.class
+com\upiiz\ventas\VentasApplication.class
+com\upiiz\ventas\models\Categoria.class
